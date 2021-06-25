@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class One_sum_of_two_number {
+public class SumOfTwoNumber {
 
     public static int[] twoSum(int[] nums, int target) {
         int [] a = new int[2];
